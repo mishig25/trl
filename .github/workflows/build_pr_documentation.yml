@@ -19,3 +19,4 @@ jobs:
       pr_number: ${{ github.event.number }}
       package: trl
       version_tag_suffix: ""
+# upload workflow fixed in doc-builder#804
